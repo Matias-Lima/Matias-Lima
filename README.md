@@ -1,7 +1,7 @@
 
 
 
-<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="500px" width="100%" align="center"> </a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
 
 <br>
 
