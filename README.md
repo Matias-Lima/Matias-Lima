@@ -27,18 +27,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" alt="tensorflow" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/tensorflow.png" alt="tensorflow" height="42px"/> </a> 
-
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" alt="tensorflow" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/tensorflow.png" alt="tensorflow" height="42px"/></a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/python.png"></a>
-
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/java.png"></a>
-
 <a href="" target="_blank"> <img align="left" alt="PHP" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/php.svg"></a>
-
 <a href="" target="_blank"> <img align="left" alt="Bootstrap" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/bootstrap.png"></a>
-
 <a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/css.png"></a>
-
 <a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/html.png"></a>
 
 <br>
