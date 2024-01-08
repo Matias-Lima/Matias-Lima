@@ -1,11 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false&fontAlign=50&fontSize=35&fontAlignY=40"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=false&textBg=false&fontAlign=50&fontSize=35&fontAlignY=40"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=1000&background=6C0AAC00&center=true&vCenter=true&random=false&width=1000&height=75&lines=Welcome!+%F0%9F%98%89;I'm+Matias+Lima;I'm+an+Economist;I'm+a+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=60&pause=1000&background=6C0AAC00&center=true&vCenter=true&random=false&width=1000&height=75&lines=Welcome!+%F0%9F%98%89;I'm+Matias+Lima;I'm+an+Economist;I'm+a+Developer;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
-
-##<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
-
-<br>
 
 ## Hey 👋, I'm Matias Lima!
 
@@ -25,17 +21,25 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Languages:
+[![My Languages](https://skillicons.dev/icons?i=py,js,html,css,php,java)](https://skillicons.dev)
+
+### Frameworks:
+[![My frameworks](https://skillicons.dev/icons?i=django,tensorflow,bootstrap)](https://skillicons.dev)
+
+### Libraries:
+<div style="display: inline-block;">
+  <img alt="Pandas" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img alt="Numpy" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+</div>
+</div>
 
 <br>
+<br>
 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" alt="tensorflow" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/tensorflow.png" alt="tensorflow" height="42px"/></a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/python.png"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/java.png"></a>
-<a href="" target="_blank"> <img align="left" alt="PHP" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/php.svg"></a>
-<a href="" target="_blank"> <img align="left" alt="Bootstrap" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/bootstrap.png"></a>
-<a href="" target="_blank"> <img align="left" alt="CSS" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/css.png"></a>
-<a href="" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://github.com/Matias-Lima/Matias-Lima/blob/main/assets/html.png"></a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
 
 <br>
 <br>
