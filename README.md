@@ -35,11 +35,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </div>
 
 <br>
+
+## Homepage:
+
 <br>
 
-<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
-<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
-<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="400px" width="100%" align="center"> </a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="300px" width="50%" align=""> </a>
+<a href="https://matias-lima.github.io/studies.html" target="_blank"> <img alt="homepage" src="./studies.png" height="300px" width="50%" align=""> </a>
+<a href="https://matias-lima.github.io/projects.html" target="_blank"> <img alt="homepage" src="./projects.png" height="300px" width="50%" align=""> </a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./homepage.png" height="300px" width="50%" align=""> </a>
+
 
 <br>
 <br>
@@ -51,7 +56,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 ![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias-Lima&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Lima&layout=compact&theme=radical)
-
 
 <br>
 <br>
