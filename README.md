@@ -40,10 +40,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="300px" width="50%" align=""> </a>
-<a href="https://matias-lima.github.io/studies.html" target="_blank"> <img alt="homepage" src="./studies.png" height="300px" width="50%" align=""> </a>
-<a href="https://matias-lima.github.io/projects.html" target="_blank"> <img alt="homepage" src="./projects.png" height="300px" width="50%" align=""> </a>
-<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./homepage.png" height="300px" width="50%" align=""> </a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./assets/homepage.png" height="275px" width="49%" align=""></a>
+<a href="https://matias-lima.github.io/studies.html" target="_blank"> <img alt="homepage" src="./studies.png" height="275px" width="49%" align=""></a>
+<a href="https://matias-lima.github.io/projects.html" target="_blank"> <img alt="homepage" src="./projects.png" height="275px" width="49%" align=""></a>
+<a href="https://matias-lima.github.io/" target="_blank"> <img alt="homepage" src="./homepage.png" height="275px" width="49%" align=""></a>
 
 
 <br>
